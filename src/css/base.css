@@ -1,0 +1,15 @@
+div.header {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+}
+
+@font-face {
+	font-family: "Lato";
+	src: url("css/fonts/lato/Lato-Regular.ttf");
+
+
+body {
+	font-family: "Lato";
+}
