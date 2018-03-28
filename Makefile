@@ -36,6 +36,11 @@ $(OUTPUT)/%.html: $(SOURCE)/%.md $(SOURCE)/header.html $(OUTPUT)/css | $(OUTPUT)
 $(GENERATED)/officer_usernames.txt: | $(GENERATED)
 	getent group officers | awk '{ split($$1,a,":"); split(a[4],b,","); {for(i in b) print(b[i])}}' > $@
 
+$(GENERATED)/officer_realnames.txt: $(GENERATED)/officer_usernames.txt
+	cat $< | xargs getent passwd | awk '{ split($$_,a,":"); split(a[5],b,","); print(b[1])}' > $@
+
+$(GENERATED)/officers.txt: $(GENERATED)/officer_usernames.txt
+	cat $< | xargs id -nG > $@
 clean:
 	rm -rf $(OUTPUT) $(GENERATED) index.html
 	@sync
