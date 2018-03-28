@@ -33,8 +33,8 @@ $(foreach copydir,$(COPYDIRS),$(eval $(call COPYDIR,$(copydir))))
 $(OUTPUT)/%.html: $(SOURCE)/%.md $(SOURCE)/header.html $(OUTPUT)/css | $(OUTPUT)
 	pandoc -s $< $(SOURCE)/footer.md -o $@ -H $(SOURCE)/header.html
 
-$(GENERATED)/officer_usernames.txt: $(GENERATED)
-	getent group officers | awk '{ split($$1,a,":"); a[4] }' > $@
+$(GENERATED)/officer_usernames.txt: | $(GENERATED)
+	getent group officers | awk '{ split($$1,a,":"); split(a[4],b,","); {for(i in b) print(b[i])}}' > $@
 
 clean:
 	rm -rf $(OUTPUT) $(GENERATED) index.html
