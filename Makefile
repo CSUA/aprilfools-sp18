@@ -65,10 +65,10 @@ $(1): $(2) $(COMMON)
 
 endef
 
-index.html: README.md $(common)
+index.html: README.md $(COMMON)
 	$(pandoc)
 
-$(OUTPUT)/readme.html: README.md $(common)
+$(OUTPUT)/readme.html: README.md $(COMMON)
 	$(PANDOC)
 
 

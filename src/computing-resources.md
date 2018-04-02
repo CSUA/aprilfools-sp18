@@ -1,8 +1,6 @@
 Computing Resources
 ===================
 
-## Desktop Machines · SSH Access · Web Hosting · GPU Computing
-
 CSUA provides computing resources to our members. A CSUA account is required to
 log in and use the machines. Any officer can help you set up an account. Come
 visit our office at 311 Soda to make an account, or come to one of our General

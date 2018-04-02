@@ -17,7 +17,7 @@ $officers.first$ $officers.last$
 <img src="img/officers/$officers.first$_$officers.last$.jpg">
 </div>
 $endfor$
-</div> 
+</div>
 
 <style>
 .officer {
