@@ -46,7 +46,7 @@ $(GENERATED)/officer_usernames.txt: | $(GENERATED)
 $(GENERATED)/officers.yml: $(GENERATED)/officer_usernames.txt
 	echo "---" > $@
 	echo "officers:" >> $@
-	cat $< | xargs getent passwd | awk '{ split($$_,a,":"); \
+	cat $< | sort | xargs getent passwd | awk '{ split($$_,a,":"); \
 		split(a[5],b,","); \
 		split(b[1],c," "); \
 		print("- first: "c[1]); \
