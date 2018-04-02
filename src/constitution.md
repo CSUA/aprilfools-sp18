@@ -4,7 +4,7 @@ Constitution
 Article I.
 ---
 
-##### Name
+### Name
 
 This organization shall be hereinafter referred to as the Computer Science
 Undergraduate Association, also known as the CSUA.
@@ -12,7 +12,7 @@ Undergraduate Association, also known as the CSUA.
 Article II.
 ---
 
-##### Purpose
+### Purpose
 
 The purposes of this organization are: to represent the undergraduate computer
 science student body in dealings with the University of California at Berkeley,
@@ -24,19 +24,19 @@ to accomplish these goals.
 Article III.
 ---
 
-##### Membership
+### Membership
 
-##### Section A. Active Membership
+#### Section A. Active Membership
 
 Any currently registered undergraduate student of the University of California
 at Berkeley is eligible for active membership in the CSUA.
 
-##### Section B. Associate Membership
+#### Section B. Associate Membership
 
 Any student, staff, faculty member of the University of California at Berkeley
 or former active member may hold associate membership in the CSUA.
 
-##### Section C. Criteria
+#### Section C. Criteria
 
 Only currently registered students, faculty and staff may be active members in
 a registered student organization. Only active members may vote or hold office.
@@ -57,22 +57,22 @@ applicant joins.
 Article IV.
 ---
 
-##### Officers
+### Officers
 
-##### Section A. Types
+#### Section A. Types
 
 The organization shall have seven elected offices, named President, Vice
 President of Technology, Vice President of Industry Relations,
 Secretary/Treasurer, External E vents Coordinator, Internal Events Coordinator,
 and Outreach Chair.
 
-##### Section B. Qualifications
+#### Section B. Qualifications
 
 Only active members of the Computer Science Undergraduate Association as
 defined in Article III, Section A shall b e allowed to run for and hold any of
 the aforementioned offices in the Computer Science Undergraduate Association.
 
-##### Section C. Term of Office
+#### Section C. Term of Office
 
 Subsection 1.  After their election, the entering officers shall assume office
 after the last day of the semester, at which point the existing officers shall
@@ -87,9 +87,9 @@ qualification, or removal from office.
 Article V.
 ---
 
-##### Duties
+### Duties
 
-##### Section A. President
+#### Section A. President
 
 The President shall:
 
@@ -110,7 +110,7 @@ The President shall:
   coordinating interclub events
 - have any other duties and/or responsibilities set forth in this Constitution
 
-##### Section B. Vice President of Industry Relations
+#### Section B. Vice President of Industry Relations
 
 The VP of Industrial Relations shall:
 
@@ -125,7 +125,7 @@ The VP of Industrial Relations shall:
   event
 - have any other duties and/or responsibilities set forth in this Constitution 
 
-##### Section C. Vice President of Technology
+#### Section C. Vice President of Technology
 
 The VP of Technology shall:
 
@@ -137,7 +137,7 @@ The VP of Technology shall:
 - solve or delegate the solving of technical issues should any arise
 - have any other duties and/or responsibilities set forth in this Constitution 
 
-##### Section D. Secretary/Treasurer
+#### Section D. Secretary/Treasurer
 
 The Secretary/Treasurer shall:
 
@@ -157,7 +157,7 @@ The Secretary/Treasurer shall:
   election 
 - have any other duties and/or responsibilities set forth in this Constitution 
 
-##### Section E. External Events Coordinator
+#### Section E. External Events Coordinator
 
 The External Events Coordinator shall:
 
@@ -168,7 +168,7 @@ The External Events Coordinator shall:
 
 Note: An external event is defined as an event sponsored by a company.
 
-##### Section F. Internal Events Coordinator
+#### Section F. Internal Events Coordinator
 
 The Internal Events Coordinator shall:
 
@@ -184,7 +184,7 @@ Note: An internal event is defined as an event that does not have a company
 sponsor. This includes interclub events, intraclub events, alumni events, and
 recruitment events.
 
-##### Section G. Outreach Chair
+#### Section G. Outreach Chair
 
 The Outreach Chair shall:
 
@@ -201,9 +201,9 @@ The Outreach Chair shall:
 Article V.
 ---
 
-##### Committees
+### Committees
 
-##### Section A. The Politburo
+#### Section A. The Politburo
 
 The Politburo shall consist of all elected officers of the CSUA. It shall hold
 at least three open meetings a semester while school is in regular session. The
@@ -211,7 +211,7 @@ Politburo shall determine temporary policies of the CSUA. Politburo decisions
 may be overturned by a two-thirds vote of the general membership at a general
 meeting.
 
-##### Section B. Other Committees
+#### Section B. Other Committees
 
 Other committees may be created or dissolved at the direction of either the
 Politburo, or by a majority vote of the general membership at a General
@@ -219,10 +219,11 @@ Meeting. Directorships or other non-politburo positions shall be appointed by
 the president and confirmed by the majority of the politburo.
 
 Article VI.
+---
 
-##### Election of Officers
+### Election of Officers
 
-##### Section A. Time and Place of Elections
+#### Section A. Time and Place of Elections
 
 Officers shall be selected each semester by a majority vote of the attending
 General Membership at a General Meeting held no less than two weeks before the
@@ -231,7 +232,7 @@ at a time and place that is considered generally accessible as well in
 compliance with ASUC regulations concerning accessibility of ASUC sponsored
 activities.
 
-##### Section B. Procedure
+#### Section B. Procedure
 
 The chair shall appoint an election officer, who shall not vote or run for
 office. The election officer must be a member. Members shall be nominated until
@@ -255,11 +256,14 @@ number of votes. If it is not possible to select any candidates in this way
 because there is a tie for first, the election officer shall cast a vote for
 one of the tied first-place candidates. If there are then fewer than three
 candidates selected for the runoff round, a new vote shall be held among those
-candidates not already chosen to select the remaining candidates.  Article VII.
+candidates not already chosen to select the remaining candidates.  
 
-##### Removal and Replacement of Officers
+Article VII.
+---
 
-##### Section A. Removal
+### Removal and Replacement of Officers
+
+#### Section A. Removal
 
 An officer may be removed from office in one of the following ways:
 
@@ -270,7 +274,7 @@ officers in office may remove an officer from office.  In the event of a
 vacancy of an office the President will be responsible for ensuring that the
 obligations of that office are fulfilled until a replacement has been made.
 
-##### Section B. Replacement
+#### Section B. Replacement
 
 In case of removal or resignation from office of one of the elected officers
 except the President, the President shall appoint a successor. All such
@@ -294,7 +298,7 @@ general meeting to elect new officers.
 Article VIII. Meetings
 ---
 
-##### Section A. Procedure
+### Section A. Procedure
 
 All meetings will run under Parliamentary procedure or some subset of the same.
 All questions, unless otherwise noted by this Constitution, shall require a
@@ -308,7 +312,7 @@ General Meetings shall be held three times a semester while school is in
 regular session, and shall be publicly announced no less than a week in
 advance.
 
-##### Section C. Politburo Meetings
+#### Section C. Politburo Meetings
 
 Politburo Meetings may be called by the President or by one-third of the
 Politburo. At least three meetings a semester while school is in regular
@@ -317,7 +321,7 @@ closed at the request of one-third of those members attending or in the event
 of disciplinary actions. In such a case, a listing of general topics discussed
 will be made available within one week after the meeting.
 
-##### Section D. Committee Meetings
+#### Section D. Committee Meetings
 
 Committee meetings will be run under the same rules as the General Meetings.
 Meetings will be open to attendance by all members.
@@ -325,16 +329,16 @@ Meetings will be open to attendance by all members.
 Article IX.
 --- 
 
-##### Bylaws and Policies
+### Bylaws and Policies
 
-##### Section A. Bylaws
+#### Section A. Bylaws
 
 Further guidelines pertaining to the operation of the CSUA not specifically set
 forth in the Constitution shall be contained in a set of publicly-available
 bylaws. Bylaws may be proposed by any active member of the CSUA, and must be
 approved by a majority vote of the Politburo
 
-##### Section B. Policies
+#### Section B. Policies
 
 Regulations pertaining to conduct of CSUA members in CSUA activities and in use
 of CSUA resources shall be contained in a set of publicly-available policies.
@@ -342,7 +346,7 @@ Politburo members may formulate and implement interim policies in the execution
 of their duties, subject to later approval of a majority of the Politburo at
 the next Politburo meeting.
 
-##### Section C. Amendments to Bylaws and Policies
+#### Section C. Amendments to Bylaws and Policies
 
 Amendments to bylaws and policies may be proposed by any active member, and
 must be approved by a majority vote of the Politburo. Such amendments may be
@@ -351,7 +355,7 @@ overturned by a two-thirds vote of the general membership at a general meeting.
 Article X.
 ---
 
-##### Amendment
+### Amendment
 
 Any amendment to this constitution must be approved by a two-thirds majority of
 a general meeting convened with at least one week prior prominent public notice
@@ -366,7 +370,7 @@ filed with the LEAD Center in 432 Eshleman Hall.
 Article XI.
 ---
 
-##### Dissolution
+### Dissolution
 
 Dissolution of the Computer Science Undergraduate Association may be approved
 by a two-thirds majority of general meeting convened during instruction with at

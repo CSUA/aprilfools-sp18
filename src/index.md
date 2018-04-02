@@ -1,5 +1,4 @@
-CSUA
-====
+# CSUA {style="font-size: 72pt;margin: 0 auto;"}
 
 ##### The home for all things CS.
 

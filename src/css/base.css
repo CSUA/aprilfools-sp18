@@ -8,13 +8,49 @@ div.header {
 body {
 	width: 600px;
 	margin: 0 auto;
+	padding: 20px;
+	font-family: Lato;
+
+	/* Copy-pasted from the other css file; not sure how it works */
+	box-shadow: 0 2px 2px 0 rgba(38,50,56,.28), 0 3px 1px -2px rgba(38,50,56,.24), 0 1px 5px 0.5px rgba(38,50,56,.32);
 }
+
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	/* position: fixed; */
+	overflow: hidden;
+	background-color: white;
+}
+
+nav li {
+	float: left;
+}
+
+nav li a {
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+a.hover {
+	background-color: #111;
+}
+
+a.active {
+	background-color: #166;
+}
+
+
 
 img {
 	width: 100%;
 }
 
-.centered {
+h1, h2, h3, h4, h5, h6, .centered {
 	text-align: center;
 }
 
@@ -35,7 +71,11 @@ img {
 	font-weight: normal;
 	font-style: normal;
 	font-size: 24px;  /* Preferred icon size */
-	display: inline-block;
+
+	/* set from inline-block -> block to center */
+	display: block;
+	text-align: center;
+
 	line-height: 1;
 	text-transform: none;
 	letter-spacing: normal;
@@ -50,9 +90,4 @@ img {
 	-moz-osx-font-smoothing: grayscale;
 	/* Support for IE. */
 	font-feature-settings: 'liga';
-}
-
-
-body {
-	font-family: Lato;
 }

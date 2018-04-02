@@ -10,8 +10,8 @@ our current website. It totalled to somewhere around 9, in 5 different files.
 This means no Node/React, no Django, no PHP even. In fact, this webpage is
 completely static.
 
-I am using some tools like Pandoc and Sass, but I consider them not to be web
-frameworks.
+I am using Pandoc, but I consider Pandoc to be closer to a document compiler
+than a web framework.
 
 The tech stack is using tried and trusted Unix-y tools: Apache/Nginx serving
 HTML and CSS generated via Make and Awk.
